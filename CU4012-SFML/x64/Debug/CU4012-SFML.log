@@ -1,2 +1,6 @@
 ﻿  Level.cpp
-  CU4012-SFML.vcxproj -> C:\Users\raouy\OneDrive\Documents\CU4012-GamesProgramming\Github Reopos\Week 12\x64\Debug\CU4012-SFML.exe
+C:\Users\wpc0006\Documents\CU4012-Week-12-Input-LondonMet\CU4012-SFML\Level.cpp(78,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wpc0006\Documents\CU4012-Week-12-Input-LondonMet\CU4012-SFML\Level.cpp(78,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  CU4012-SFML.vcxproj -> C:\Users\wpc0006\Documents\CU4012-Week-12-Input-LondonMet\x64\Debug\CU4012-SFML.exe
