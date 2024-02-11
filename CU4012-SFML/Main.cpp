@@ -64,7 +64,7 @@ void windowProcess(sf::RenderWindow* window, Input* in)
 int main()
 {
 	//Create the window
-	sf::RenderWindow window(sf::VideoMode(1200, 675), "CMP105_W2");
+	sf::RenderWindow window(sf::VideoMode(1200, 675), "CU4012_W12");
 
 	// Initialise input and level objects.
 	Input input;
